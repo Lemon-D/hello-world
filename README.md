@@ -1,2 +1,3 @@
 # hello-world
-Test repository
+
+Test repository - Used for testing Git and learning Git and being a Git
